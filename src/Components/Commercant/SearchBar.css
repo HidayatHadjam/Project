@@ -1,0 +1,6 @@
+.placeholder-custom::placeholder {
+    font-size: 0.875rem; /* Equivalent to text-sm */
+    font-weight: 400;    /* Equivalent to font-normal */
+    padding-top: 0.25rem; /* Add padding-top for spacing */
+    line-height: 1.5;    /* Ensure proper line-height */
+}
